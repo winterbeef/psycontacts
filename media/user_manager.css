@@ -1,0 +1,33 @@
+body {
+    padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+#room_list tbody,
+#user_list tbody {
+    font-size: 10.5px;
+    font-family: Verdana, "Helvetica Neue", Consolas, Helvetica, Arial, sans-serif;
+}
+#room_list tbody tr:hover,
+#user_list tbody tr:hover {
+    background-color: #ffd;
+}
+.pagination {
+    margin-top:3px;
+}
+.editable:hover {
+    cursor:pointer;
+    cursor:hand;
+    font-weight: bold;
+}
+form.eip input {
+    height:1em;
+}
+form.eip select, form.eip option {
+    width:6em;
+}
+.muted {
+    font-style: italic;
+}
+img.micro {
+    max-width:120px;
+}

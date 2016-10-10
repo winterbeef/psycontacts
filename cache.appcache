@@ -1,0 +1,19 @@
+CACHE MANIFEST
+CACHE:
+/internal/images/back_disabled.jpg
+/internal/images/back_enabled.jpg
+/internal/images/forward_disabled.jpg
+/internal/images/forward_enabled.jpg
+/internal/images/sort_asc_disabled.png
+/internal/images/sort_asc.png
+/internal/images/sort_both.png
+/internal/images/sort_desc_disabled.png
+/internal/images/sort_desc.png
+/internal/media/bootstrap.css
+/internal/media/bootstrap.min.js
+/internal/media/bootstrap-responsive.css
+/internal/media/jquery.dataTables.css
+/internal/media/jquery.dataTables.min.js
+/internal/media/jquery.min.js
+/internal/media/user_manager.css
+# UPDATED: 1476123604

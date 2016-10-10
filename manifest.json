@@ -1,0 +1,39 @@
+{
+  "name": "Psyop Phones",
+  "icons": [
+    {
+      "src": "/apple-touch-icon-57x57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "density": 1.0
+    },
+    {
+      "src": "/apple-touch-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": 1.0
+    },
+    {
+      "src": "/apple-touch-icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "density": 1.0
+    },
+    {
+      "src": "/apple-touch-icon-114x114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "density": 1.0
+    },
+
+    {
+      "src": "/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "density": 1.0
+    }
+  ],
+  "start_url": "index.php",
+  "display": "standalone",
+  "orientation": "portrait"
+}
